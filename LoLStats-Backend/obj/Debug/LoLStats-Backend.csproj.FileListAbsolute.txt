@@ -1,0 +1,9 @@
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\bin\Debug\LoLStats-Backend.exe
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\bin\Debug\LoLStats-Backend.pdb
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\bin\Debug\Nancy.dll
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\bin\Debug\Nancy.Hosting.Self.dll
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\bin\Debug\Nancy.xml
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\bin\Debug\Nancy.Hosting.Self.xml
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\obj\Debug\LoLStats-Backend.csprojResolveAssemblyReference.cache
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\obj\Debug\LoLStats-Backend.exe
+c:\users\mathw_000\documents\visual studio 2013\Projects\LoLStats-Backend\LoLStats-Backend\obj\Debug\LoLStats-Backend.pdb
